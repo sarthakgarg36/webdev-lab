@@ -6,31 +6,6 @@ This repository contains projects built using HTML, CSS, JavaScript, Node.js, Ex
 
 ---
 
-# 📂 Repository Structure
-
-```bash
-webdev-lab/
-│
-├── exp-1/                # Basic Web Development Experiment
-├── exp-2/                # HTML/CSS Experiment
-├── exp-3/                # JavaScript Experiment
-├── exp-4/                # Styling and Layouts
-├── exp-5/                # Frontend Practice
-├── exp-6/                # Interactive Web Pages
-├── exp-8-book-api/       # REST API using Express.js
-├── exp-9/                # MongoDB User Model
-├── exp-10/               # Additional Backend Experiment
-├── notes-app/            # Notes Application
-│
-├── index.html
-├── index2.html
-├── package.json
-├── package-lock.json
-└── README.md
-```
-
----
-
 # 🚀 Technologies Used
 
 ## Frontend
@@ -166,19 +141,6 @@ Through these experiments, I learned:
 - Mongoose schema modeling
 - Git & GitHub workflow
 
----
-
-# 📷 Screenshots
-
-_Add screenshots of your experiments here._
-
-Example:
-
-```markdown
-![Project Screenshot](./screenshots/project.png)
-```
-
----
 
 # 🤝 Contribution
 
